@@ -44,16 +44,31 @@ I'm a data analyst with expertise in SQL, Power BI, Python, machine learning, de
 - **Technologies Used**: SSIS, SQL
 
 ## 📫 Connect with Me
+## 📊 Projects
 
-You can reach out to me via:
+### 1. [Project Name](https://github.com/yourusername/project-repo)
+![Project Image](https://your-project-image-url.com)
+**Description:** Brief description of the project. Explain the tools and technologies used, and what the project aims to achieve.
 
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile/)
-- [Twitter](https://twitter.com/your-twitter-handle)
+### 2. [Project Name](https://github.com/yourusername/project-repo)
+![Project Image](https://your-project-image-url.com)
+**Description:** Brief description of the project. Explain the tools and technologies used, and what the project aims to achieve.
 
-Feel free to connect with me for collaborations or just to say hi!
+### 3. [Project Name](https://github.com/yourusername/project-repo)
+![Project Image](https://your-project-image-url.com)
+**Description:** Brief description of the project. Explain the tools and technologies used, and what the project aims to achieve.
 
-## 😄 Fun Fact
+---
 
-Did you know that I'm also a hobbyist photographer? I love capturing moments in nature whenever I get the chance!
+## 📈 GitHub Stats
 
-<!-- Feel free to customize this README to add more sections or tweak the design! -->
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+
+---
+
+## 📫 Contact Me
+
+- **LinkedIn:** [Your LinkedIn](https://linkedin.com/in/yourusername)
+- **Email:** [youremail@example.com](mailto:youremail@example.com)
