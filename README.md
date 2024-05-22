@@ -1,7 +1,8 @@
 # 👋 Hi there! I'm Akhilesh Yadav 👋
 
 
-
+## Data Analyst  📊
+As a Data Analyst, I specialize in extracting insights and knowledge from data to inform decision-making and drive business strategies. With expertise in SQL, Power BI, SSRS, SSIS, Python, and machine learning techniques, I excel in transforming raw data into actionable insights. Whether it's creating insightful visualizations, building predictive models, or optimizing data pipelines, I thrive on uncovering patterns and trends that empower organizations to make data-driven decisions. Let's unlock the potential of your data together!
 
 I'm a passionate Data Analyst with a diverse skill set in **SQL**, **SSRS**, **SSIS**, **Power BI**, **Python**, **Machine Learning**, **Deep Learning**, **Docker**, and **Kubernetes**. I love transforming data into actionable insights and building efficient, scalable solutions.
 
