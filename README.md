@@ -42,32 +42,15 @@ I'm a passionate Data Analyst with a diverse skill set in **SQL**, **SSRS**, **S
 - **Technologies Used**: SSIS, SQL
 
 
-## 🛠️ Tools I Use
-<p align="left">
-  <img src="https://img.shields.io/badge/SQL-00599C?style=for-the-badge&logo=sql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" alt="Power BI" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-</p>
+## 📫 How to Reach Me
 
-## 🎥 Watch Me Code
-![Coding GIF](https://your-gif-url.com/coding.gif)
+- **Email:** [your.email@example.com](mailto:your.email@example.com)
+- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
+- **Twitter:** [@yourtwitterhandle](https://twitter.com/yourtwitterhandle)
+- **Personal Website/Portfolio:** [yourwebsite.com](https://yourwebsite.com)
 
-## 📫 Contact Me
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
-- **LinkedIn**: [Your LinkedIn](https://www.linkedin.com/in/your-linkedin/)
-- **Twitter**: [@your-twitter](https://twitter.com/your-twitter)
+Feel free to check out my repositories and reach out if you have any questions or collaboration ideas!
 
-## 🌐 Find Me Around the Web
-- **Personal Website**: [yourwebsite.com](https://yourwebsite.com)
-- **Blog**: [yourblog.com](https://yourblog.com)
+![Funny Boy Coding GIF](https://example.com/funny-boy-coding.gif)
 
-## 📝 Latest Blog Posts
-- [How to Build Efficient Data Pipelines](https://yourblog.com/post/1)
-- [Introduction to Machine Learning](https://yourblog.com/post/2)
-- [Deploying Applications with Docker and Kubernetes](https://yourblog.com/post/3)
-
----
-
-
+Thanks for visiting my profile!
