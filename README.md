@@ -1,4 +1,4 @@
-# 👋 Hello! I'm [Your Name]
+# 👋 Hello! I'm Akhilesh Yadav
 
 ![Header Image](https://your-image-url.com)
 
@@ -44,7 +44,5 @@ Welcome to my GitHub profile! I'm a passionate Data Analyst with a diverse skill
 
 ## 📫 Contact Me
 
-- **LinkedIn:** [Your LinkedIn](https://linkedin.com/in/yourusername)
-- **Email:** [youremail@example.com](mailto:youremail@example.com)
-
-![Footer Image](https://your-image-url.com)
+- **LinkedIn:** https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BWD39PkirR%2Fqi0JYg3PIoTg%3D%3D
+- **Email:** akkiy0550@gmail.com
