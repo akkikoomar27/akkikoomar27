@@ -20,7 +20,7 @@ As a Data Analyst, I specialize in extracting insights and knowledge from data t
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-### BI & ETL Tools
+### Tools
 ![SSRS](https://img.shields.io/badge/SSRS-0078D4?style=for-the-badge&logo=ssrs&logoColor=white)
 ![SSIS](https://img.shields.io/badge/SSIS-FF6F00?style=for-the-badge&logo=ssis&logoColor=white)
 
