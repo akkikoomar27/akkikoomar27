@@ -1,55 +1,58 @@
 # Hi there, I'm [Your Name] 👋
 
-![Header](https://yourimageurl.com)
+![Coder GIF](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
 
-Welcome to my GitHub profile! I'm a passionate software developer with a love for creating innovative solutions and a keen eye for detail. Below you'll find more about my skills, some of my favorite projects, and how to get in touch with me.
+Welcome to my GitHub profile! I'm a passionate Data Analyst with a diverse skill set in various tools and technologies. Here's a little more about me and what I do:
+
+## 🛠️ Skills
+
+- **Programming Languages**: Python
+- **Data Analysis & Visualization**: SQL, Power BI, SSRS
+- **Data Integration**: SSIS
+- **Machine Learning & Deep Learning**: Scikit-learn, TensorFlow, Keras
+- **Containerization & Orchestration**: Docker, Kubernetes
+
+## 📈 Projects
+
+### 1. Project Title 1
+![Project Image](https://via.placeholder.com/150)
+- **Description**: Brief description of the project.
+- **Technologies Used**: SQL, Power BI, Python
+- **Repository**: [GitHub Link](https://github.com/yourusername/project1)
+
+### 2. Project Title 2
+![Project Image](https://via.placeholder.com/150)
+- **Description**: Brief description of the project.
+- **Technologies Used**: SSIS, SSRS, Python
+- **Repository**: [GitHub Link](https://github.com/yourusername/project2)
+
+### 3. Project Title 3
+![Project Image](https://via.placeholder.com/150)
+- **Description**: Brief description of the project.
+- **Technologies Used**: Machine Learning, Deep Learning, Docker, Kubernetes
+- **Repository**: [GitHub Link](https://github.com/yourusername/project3)
+
+## 📫 Get in Touch
+
+- **LinkedIn**: [Your LinkedIn](https://www.linkedin.com/in/yourprofile/)
+- **Email**: [Your Email](mailto:youremail@example.com)
+- **Website**: [Your Website](https://www.yourwebsite.com)
+
+## 🌱 Currently Learning
+
+- Advanced Machine Learning techniques
+- Cloud Computing with AWS/GCP/Azure
+
+## 🤔 Looking for Help With
+
+- Collaborations on open-source projects related to data science and machine learning.
+- Contributing to innovative and impactful projects.
+
+## 💬 Let's Connect
+
+Feel free to reach out if you have any questions, ideas, or just want to connect. I'm always open to new opportunities and collaborations!
 
 ---
 
-## 🛠 Skills
+![Profile Views](https://komarev.com/ghpvc/?username=yourusername&style=flat-square)
 
-- **Languages:** Python, JavaScript, TypeScript, Java, C++
-- **Frameworks:** React, Angular, Node.js, Django, Spring Boot
-- **Databases:** MySQL, PostgreSQL, MongoDB
-- **Tools & Platforms:** Docker, Kubernetes, AWS, Git, CI/CD
-- **Other:** Agile methodologies, TDD, Clean Code
-
----
-
-## 📈 GitHub Stats
-
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
----
-
-## 🔧 Projects
-
-### [Project Name 1](https://github.com/yourusername/project1)
-![Project Image](https://yourimageurl.com)
-**Description:** A brief description of what the project does and the technologies used.
-
-### [Project Name 2](https://github.com/yourusername/project2)
-![Project Image](https://yourimageurl.com)
-**Description:** A brief description of what the project does and the technologies used.
-
-### [Project Name 3](https://github.com/yourusername/project3)
-![Project Image](https://yourimageurl.com)
-**Description:** A brief description of what the project does and the technologies used.
-
----
-
-## 💬 Get in Touch
-
-- **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
-- **Twitter:** [Your Twitter Profile](https://twitter.com/yourprofile)
-- **Email:** [your.email@example.com](mailto:your.email@example.com)
-
----
-
-![Coder GIF](https://yourgifurl.com)
-
-Thank you for visiting my profile! Feel free to reach out if you have any questions or collaboration ideas.
-
----
-
-⭐️ From [Your Name](https://github.com/yourusername)
