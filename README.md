@@ -28,6 +28,8 @@ I'm a data analyst with expertise in SQL, Power BI, Python, machine learning, de
 
 ## 💼 Projects
 
+## 🌟 Projects & Contributions
+
 ### [Project 1: Data Analysis with SQL & Power BI](https://github.com/yourusername/project1)
 ![Project Image](https://via.placeholder.com/400x200.png?text=Project+1+Image)
 - **Description**: Detailed analysis of sales data using SQL and visualization in Power BI.
@@ -42,6 +44,13 @@ I'm a data analyst with expertise in SQL, Power BI, Python, machine learning, de
 ![Project Image](https://via.placeholder.com/400x200.png?text=Project+3+Image)
 - **Description**: Designing and implementing an ETL pipeline for data warehousing.
 - **Technologies Used**: SSIS, SQL
+
+## 📫 Get in Touch
+
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
+- Twitter: [@yourtwitterhandle](https://twitter.com/yourtwitterhandle)
+- Email: [your.email@example.com](mailto:your.email@example.com)
+
 
 ## 📫 Connect with Me
 ## 📊 Projects
