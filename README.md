@@ -1,6 +1,7 @@
 # 👋 Hi there! I'm Akhilesh Yadav 👋
 
-![Animated GIF](https://example.com/your-gif.gif)
+
+![Boy Coding](https://media.giphy.com/media/11ZSwQNWba4YF2/giphy.gif)
 
 
 ![Profile Banner](https://via.placeholder.com/800x200.png?text=Welcome+to+My+GitHub+Profile)
