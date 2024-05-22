@@ -41,6 +41,13 @@ I'm a passionate Data Analyst with a diverse skill set in **SQL**, **SSRS**, **S
 - **Description**: Designing and implementing an ETL pipeline for data warehousing.
 - **Technologies Used**: SSIS, SQL
 
+## 📈 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+
+
 ## 📫 Get in Touch
 
 - LinkedIn: www.linkedin.com/in/akhilesh-yadav-27koomar
