@@ -1,8 +1,7 @@
 # 👋 Hi there! I'm Akhilesh Yadav 👋
 
 
-![Alt Text](![Uploading image.png…]()
-)
+![Alt Text]![Uploading image.png…]()
 
 
 I'm a passionate Data Analyst with a diverse skill set in **SQL**, **SSRS**, **SSIS**, **Power BI**, **Python**, **Machine Learning**, **Deep Learning**, **Docker**, and **Kubernetes**. I love transforming data into actionable insights and building efficient, scalable solutions.
