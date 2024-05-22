@@ -1,10 +1,10 @@
 # 👋 Hi there! I'm Akhilesh Yadav 👋
 
 
-## Data Analyst  📊
+## Data Analyst 📊
 As a Data Analyst, I specialize in extracting insights and knowledge from data to inform decision-making and drive business strategies. With expertise in SQL, Power BI, SSRS, SSIS, Python, and machine learning techniques, I excel in transforming raw data into actionable insights. Whether it's creating insightful visualizations, building predictive models, or optimizing data pipelines, I thrive on uncovering patterns and trends that empower organizations to make data-driven decisions. Let's unlock the potential of your data together!
 
-## 🛠️ My Skill Set
+## My Skill Set 🛠️
 
 ### Programming & Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -24,7 +24,7 @@ As a Data Analyst, I specialize in extracting insights and knowledge from data t
 ![SSRS](https://img.shields.io/badge/SSRS-0078D4?style=for-the-badge&logo=ssrs&logoColor=white)
 ![SSIS](https://img.shields.io/badge/SSIS-FF6F00?style=for-the-badge&logo=ssis&logoColor=white)
 
-## 🌟 Projects & Contributions
+## Projects & Contributions 🌟
 
 ### [Project 1: Data Analysis with SQL & Power BI](https://github.com/yourusername/project1)
 ![Project Image](https://via.placeholder.com/400x200.png?text=Project+1+Image)
@@ -41,14 +41,14 @@ As a Data Analyst, I specialize in extracting insights and knowledge from data t
 - **Description**: Designing and implementing an ETL pipeline for data warehousing.
 - **Technologies Used**: SSIS, SQL
 
-## 📈 GitHub Stats
+## GitHub Stats 📈
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
 
 
-## 📫 Get in Touch
+## Get in Touch 📫
 
 - LinkedIn: www.linkedin.com/in/akhilesh-yadav-27koomar
 - Twitter: [@yourtwitterhandle](https://twitter.com/yourtwitterhandle)
