@@ -41,13 +41,30 @@ I'm a passionate Data Analyst with a diverse skill set in **SQL**, **SSRS**, **S
 - **Description**: Designing and implementing an ETL pipeline for data warehousing.
 - **Technologies Used**: SSIS, SQL
 
-## 📫 Get in Touch
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
-- Twitter: [@yourtwitterhandle](https://twitter.com/yourtwitterhandle)
-- Email: [your.email@example.com](mailto:your.email@example.com)
+## 🤝 Connect with Me
 
-![Footer Image](https://via.placeholder.com/800x100.png?text=Thanks+for+visiting!)
+- [LinkedIn](https://www.linkedin.com/in/yourprofile)
+- [Twitter](https://twitter.com/yourprofile)
+- [Personal Website](https://yourwebsite.com)
+- [Email](mailto:youremail@example.com)
+
+Feel free to reach out if you want to collaborate on projects or just have a chat about technology!
+
+![Funny Coder GIF](https://your-gif-url.com/funny-coder.gif)
+
+## 📈 GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+
+## 📊 Weekly Development Breakdown
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+Thanks for visiting my profile!
 
 ---
 
