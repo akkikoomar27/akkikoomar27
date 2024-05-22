@@ -1,5 +1,8 @@
 # 👋 Hi there! I'm Akhilesh Yadav 👋
 
+![Animated GIF](https://example.com/your-gif.gif)
+
+
 ![Profile Banner](https://via.placeholder.com/800x200.png?text=Welcome+to+My+GitHub+Profile)
 
 I'm a passionate Data Analyst with a diverse skill set in **SQL**, **SSRS**, **SSIS**, **Power BI**, **Python**, **Machine Learning**, **Deep Learning**, **Docker**, and **Kubernetes**. I love transforming data into actionable insights and building efficient, scalable solutions.
