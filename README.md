@@ -1,7 +1,5 @@
 # 👋 Hello! I'm Akhilesh Yadav
 
-![Header Image](https://your-image-url.com)
-
 Welcome to my GitHub profile! I'm a passionate Data Analyst with a diverse skill set in data manipulation, visualization, and machine learning. My toolkit includes SQL, Power BI, Python, Machine Learning, Deep Learning, Docker, and Kubernetes.
 
 ---
