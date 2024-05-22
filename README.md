@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm [Your Name]
+# 👋 Hi there! I'm Akhilesh Yadav 👋
 
 ![Profile Banner](https://via.placeholder.com/800x200.png?text=Welcome+to+My+GitHub+Profile)
 
@@ -43,12 +43,12 @@ I'm a passionate Data Analyst with a diverse skill set in **SQL**, **SSRS**, **S
 
 ## 📫 Get in Touch
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
+- LinkedIn: www.linkedin.com/in/akhilesh-yadav-27koomar
 - Twitter: [@yourtwitterhandle](https://twitter.com/yourtwitterhandle)
-- Email: [your.email@example.com](mailto:your.email@example.com)
+- Email: akkiy0550@gmail.com
 
 ![Footer Image](https://via.placeholder.com/800x100.png?text=Thanks+for+visiting!)
 
 ---
 
-⭐️ From [Your Name](https://github.com/yourusername)
+⭐️ From Akhilesh (https://github.com/yourusername)
