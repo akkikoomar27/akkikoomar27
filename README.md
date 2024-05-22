@@ -1,10 +1,12 @@
 # 👋 Hi there! I'm Akhilesh Yadav 👋
 
-[
+[[
 ![Boy Coding](https://media.giphy.com/media/11ZSwQNWba4YF2/giphy.gif)
 
 
 ![Profile Banner](https://via.placeholder.com/800x200.png?text=Welcome+to+My+GitHub+Profile)](https://www.google.com/url?sa=i&url=https%3A%2F%2Fyoucab.lk%2F%3Fw%3Dconvert-video-to-transparent-background-gifs-gif-to-video-uu-NxwYQ4uV&psig=AOvVaw0aR7svMWdwzvrsTbshuvod&ust=1716459447103000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqGAoTCNinqu6DoYYDFQAAAAAdAAAAABCMAQ)
+](https://www.google.com/url?sa=i&url=https%3A%2F%2Fyoucab.lk%2F%3Fw%3Dconvert-video-to-transparent-background-gifs-gif-to-video-uu-NxwYQ4uV&psig=AOvVaw0aR7svMWdwzvrsTbshuvod&ust=1716459447103000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqGAoTCNinqu6DoYYDFQAAAAAdAAAAABCMAQ)
+
 
 I'm a passionate Data Analyst with a diverse skill set in **SQL**, **SSRS**, **SSIS**, **Power BI**, **Python**, **Machine Learning**, **Deep Learning**, **Docker**, and **Kubernetes**. I love transforming data into actionable insights and building efficient, scalable solutions.
 
