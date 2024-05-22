@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" alt="Data Analysis" width="300"/>
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Coder" width="400"/>
 </div>
 
 # Hi there, I'm [Your Name]! 👋
