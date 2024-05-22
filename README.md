@@ -28,6 +28,10 @@ I'm a data analyst with expertise in SQL, Power BI, Python, machine learning, de
 
 ## 💼 Projects
 
+
+![GIF Title](link_to_your_gif.gif)
+
+
 ## 🌟 Projects & Contributions
 
 ### [Project 1: Data Analysis with SQL & Power BI](https://github.com/yourusername/project1)
