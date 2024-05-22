@@ -42,52 +42,32 @@ I'm a passionate Data Analyst with a diverse skill set in **SQL**, **SSRS**, **S
 - **Technologies Used**: SSIS, SQL
 
 
-## 🤝 Connect with Me
+## 🛠️ Tools I Use
+<p align="left">
+  <img src="https://img.shields.io/badge/SQL-00599C?style=for-the-badge&logo=sql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+</p>
 
-- [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- [Twitter](https://twitter.com/yourprofile)
-- [Personal Website](https://yourwebsite.com)
-- [Email](mailto:youremail@example.com)
+## 🎥 Watch Me Code
+![Coding GIF](https://your-gif-url.com/coding.gif)
 
-Feel free to reach out if you want to collaborate on projects or just have a chat about technology!
+## 📫 Contact Me
+- **Email**: [your-email@example.com](mailto:your-email@example.com)
+- **LinkedIn**: [Your LinkedIn](https://www.linkedin.com/in/your-linkedin/)
+- **Twitter**: [@your-twitter](https://twitter.com/your-twitter)
 
-![Funny Coder GIF](https://your-gif-url.com/funny-coder.gif)
+## 🌐 Find Me Around the Web
+- **Personal Website**: [yourwebsite.com](https://yourwebsite.com)
+- **Blog**: [yourblog.com](https://yourblog.com)
 
-## 📈 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
-
-## 📊 Weekly Development Breakdown
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-Thanks for visiting my profile!
-
----
-## 📫 Get in Touch
-
-- **LinkedIn**: [Your LinkedIn](https://www.linkedin.com/in/yourprofile/)
-- **Email**: [Your Email](mailto:youremail@example.com)
-- **Website**: [Your Website](https://www.yourwebsite.com)
-
-## 🌱 Currently Learning
-
-- Advanced Machine Learning techniques
-- Cloud Computing with AWS/GCP/Azure
-
-## 🤔 Looking for Help With
-
-- Collaborations on open-source projects related to data science and machine learning.
-- Contributing to innovative and impactful projects.
-
-## 💬 Let's Connect
-
-Feel free to reach out if you have any questions, ideas, or just want to connect. I'm always open to new opportunities and collaborations!
+## 📝 Latest Blog Posts
+- [How to Build Efficient Data Pipelines](https://yourblog.com/post/1)
+- [Introduction to Machine Learning](https://yourblog.com/post/2)
+- [Deploying Applications with Docker and Kubernetes](https://yourblog.com/post/3)
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&style=flat-square)
 
