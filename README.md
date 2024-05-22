@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Coder" width="400"/>
 </div>
 
-# Hi there, I'm [Your Name]! 👋
+# Hi there, Akhilesh Yadav! 👋
 
 I'm a data analyst with expertise in SQL, Power BI, Python, machine learning, deep learning, Docker, and Kubernetes.
 
