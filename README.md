@@ -28,11 +28,20 @@ I'm a data analyst with expertise in SQL, Power BI, Python, machine learning, de
 
 ## 💼 Projects
 
-Here are some of my notable projects:
+### [Project 1: Data Analysis with SQL & Power BI](https://github.com/yourusername/project1)
+![Project Image](https://via.placeholder.com/400x200.png?text=Project+1+Image)
+- **Description**: Detailed analysis of sales data using SQL and visualization in Power BI.
+- **Technologies Used**: SQL, Power BI
 
-- [Project 1 Name](link)
-- [Project 2 Name](link)
-- [Project 3 Name](link)
+### [Project 2: Machine Learning Model Deployment](https://github.com/yourusername/project2)
+![Project Image](https://via.placeholder.com/400x200.png?text=Project+2+Image)
+- **Description**: Building and deploying a machine learning model using Docker and Kubernetes.
+- **Technologies Used**: Python, Machine Learning, Docker, Kubernetes
+
+### [Project 3: ETL Pipeline with SSIS](https://github.com/yourusername/project3)
+![Project Image](https://via.placeholder.com/400x200.png?text=Project+3+Image)
+- **Description**: Designing and implementing an ETL pipeline for data warehousing.
+- **Technologies Used**: SSIS, SQL
 
 ## 📫 Connect with Me
 
