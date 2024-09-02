@@ -26,17 +26,17 @@ As a Data Analyst, I specialize in extracting insights and knowledge from data t
 
 ## Projects & Contributions 🌟
 
-### [Project 1: Data Analysis with SQL & Power BI](https://github.com/yourusername/project1)
+### [Project 1: Data Analysis with SQL & Power BI](https://github.com/akkikoomar27/project1)
 
 - **Description**: Detailed analysis of sales data using SQL and visualization in Power BI.
 - **Technologies Used**: SQL, Power BI
 
-### [Project 2: Machine Learning Model Deployment](https://github.com/yourusername/project2)
+### [Project 2: Machine Learning Model Deployment](https://github.com/akkikoomar27/project2)
 
-- **Description**: Building and deploying a machine learning model using Docker and Kubernetes.
-- **Technologies Used**: Python, Machine Learning, Docker, Kubernetes
+- **Description**: Building and deploying a machine learning model.
+- **Technologies Used**: Python, Machine Learning.
 
-### [Project 3: ETL Pipeline with SSIS](https://github.com/yourusername/project3)
+### [Project 3: ETL Pipeline with SSIS](https://github.com/akkikoomar27/project3)
 
 - **Description**: Designing and implementing an ETL pipeline for data warehousing.
 - **Technologies Used**: SSIS, SQL
@@ -51,7 +51,6 @@ As a Data Analyst, I specialize in extracting insights and knowledge from data t
 ## Get in Touch 📫
 
 - LinkedIn: www.linkedin.com/in/akhilesh-yadav-27koomar
-- Twitter: [@yourtwitterhandle](https://twitter.com/yourtwitterhandle)
 - Email: akkiy0550@gmail.com
 
 ![Footer Image](https://via.placeholder.com/800x100.png?text=Thanks+for+visiting!)
