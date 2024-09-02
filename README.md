@@ -27,17 +27,17 @@ As a Data Analyst, I specialize in extracting insights and knowledge from data t
 ## Projects & Contributions 🌟
 
 ### [Project 1: Data Analysis with SQL & Power BI](https://github.com/yourusername/project1)
-![Project Image](https://via.placeholder.com/400x200.png?text=Project+1+Image)
+
 - **Description**: Detailed analysis of sales data using SQL and visualization in Power BI.
 - **Technologies Used**: SQL, Power BI
 
 ### [Project 2: Machine Learning Model Deployment](https://github.com/yourusername/project2)
-![Project Image](https://via.placeholder.com/400x200.png?text=Project+2+Image)
+
 - **Description**: Building and deploying a machine learning model using Docker and Kubernetes.
 - **Technologies Used**: Python, Machine Learning, Docker, Kubernetes
 
 ### [Project 3: ETL Pipeline with SSIS](https://github.com/yourusername/project3)
-![Project Image](https://via.placeholder.com/400x200.png?text=Project+3+Image)
+
 - **Description**: Designing and implementing an ETL pipeline for data warehousing.
 - **Technologies Used**: SSIS, SQL
 
