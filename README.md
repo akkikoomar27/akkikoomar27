@@ -1,135 +1,124 @@
 <div align="center">
 
-# 👨‍💻 Akhilesh Yadav
+# 👋 Hi, I'm Akhilesh Yadav
 
-### Building Data Products, Not Just Dashboards
+### Data Analyst • Data Scientist • Data Engineer
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Data+Analyst;Data+Scientist;Data+Engineer;Machine+Learning+Enurning+Data+into+Business+Value
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=4%2B+Years+of+Enterprise+Experience;Fortune+500+Professional+at+L%26T;Python+%7C+SQL+%7C+Snowflake+%7C+Power+BI;Machine+Learning+%7C+ETL+%7C+Data+Engineering;Transforming+Data+ess+Value+🚀
+
+<br><br>
+
+arev.com/ghpvc/?username=akkikoomar27&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
 
 </div>
 
 ---
 
-## 🎯 My Journey
-
-```text
-Raw Data
-    │
-    ▼
-Data Engineering
-    │
-    ▼
-Analytics & Insights
-    │
-    ▼
-Machine Learning
-    │
-    ▼
-Business Impact 🚀
-```
-
-I'm Akhilesh Yadav, a Data Analyst & Data Scientist with 4+ years of enterprise experience.
-
-My mission is simple:
-
-> Convert messy datasets into business decisions.
-
-I enjoy solving problems where data, technology, and business intersect.
-
-Whether it's designing ETL pipelines, optimizing SQL workloads, building predictive models, or developing executive dashboards, I love creating solutions that deliver measurable impact.
-
----
-
-## 🚀 What I Actually Do
-
-🗄️ Design and optimize SQL solutions
-
-⚙️ Build ETL and Data Engineering workflows
-
-☁️ Develop Cloud Data Warehouse solutions
-
-📊 Create executive Power BI dashboards
-
-🤖 Build Machine Learning models
-
-📈 Transform raw data into business insights
-
-🔍 Analyze data to uncover hidden opportunities
-
----
-
-## 💼 Current Tech Toolbox
-
-```yaml
-Languages:
-  - Python
-  - SQL
-  - T-SQL
-
-Analytics:
-  - Power BI
-  - Excel
-  - SSRS
-
-Data Engineering:
-  - SSIS
-  - ETL
-  - Data Modelling
-
-Cloud:
-  - Snowflake
-  - Azure SQL
-  - Azure Blob Storage
-
-Machine Learning:
-  - Scikit-Learn
-  - XGBoost
-  - Pandas
-  - NumPy
-```
-
----
-
-## 📈 Impact So Far
-
-🏆 Reduced Data Pipeline Effort by 60%
-
-🏆 Improved Data Availability by 40%
-
-🏆 ML Solutions with 85%+ Accuracy
-
-🏆 Optimized 30+ Enterprise SQL Procedures
-
-🏆 Automated Business Reporting Ecosystem
-
-🏆 Built Scalable Snowflake Solutions
-
----
-
-## 🧠 Currently Learning
+# 🚀 Who Am I?
 
 ```python
-while True:
-    learn("Data Engineering")
-    learn("Snowflake")
-    learn("MLOps")
-    learn("Generative AI")
-    build("Projects")
+class AkhileshYadav:
+
+    role = "Data Analyst & Data Scientist"
+
+    experience = "4+ Years"
+
+    company = "Larsen & Toubro (Fortune 500)"
+
+    skills = [
+        "Python",
+        "SQL",
+        "Snowflake",
+        "Power BI",
+        "Machine Learning",
+        "ETL Development",
+        "Data Engineering"
+    ]
+
+    passion = "Transforming Data into Business Value"
 ```
 
 ---
 
-## ☕ Fun Fact
+## 🎯 Professional Summary
 
-Most people see dashboards.
+I'm a Data Analyst & Data Scientist with 4+ years of enterprise experience at Larsen & Toubro.
 
-I see the SQL queries, ETL jobs, pipelines,
-validation rules, warehouse architecture,
-and 3 AM production fixes behind them 😄
+I specialize in building end-to-end data solutions—from data extraction and transformation to machine learning, cloud warehousing, and business intelligence.
+
+My work focuses on creating scalable analytics solutions, automating business processes, optimizing data pipelines, and enabling data-driven decision-making through modern data platforms and intelligent reporting systems. 【1-6d7275】
 
 ---
 
-## 🤝 Let's Connect
+## ⚡ What I Bring
+
+🔹 Data Analytics & Business Intelligence
+
+🔹 Machine Learning & Predictive Analytics
+
+🔹 Snowflake Cloud Data Warehousing
+
+🔹 SQL Query Optimization
+
+🔹 ETL & Data Engineering
+
+🔹 Power BI Dashboard Development
+
+🔹 Enterprise Reporting Automation
+
+🔹 Data-Driven Business Solutions
+
+---
+
+## 🛠 Tech Stack
+
+### Analytics & BI
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-logo=python&logoColor=white
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-thelogo=microsoftsqlserver&logoColor=white
+![Power BI](https://img.shields.io/badge/Power_Ble=for-the-badge&logo=powerbi&logoColor=black
+
+### Data Engineering
+![SSIS](https://img.shields.io/badge/SSISstyle=for-the-badge
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflakeite
+![Azure SQL](https://img.shields.io/badge/Azure_SQL-0078D4?style=for-the-badgeftazure&logoColor=white
+
+### Machine Learning
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logoNumPy](https://img.shields.io/badge/NumPy-013243?style=for-thego=numpy
+![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-F7931E?dge&logo=scikitlearn
+
+---
+
+## 📈 Impact Delivered
+
+✅ Reduced Data Pipeline Effort by 60%
+
+✅ Built ML Models with 85%+ Accuracy
+
+✅ Improved Data Availability by 40%
+
+✅ Optimized Enterprise SQL Performance by 35%
+
+✅ Automated Business Reporting Ecosystems
+
+✅ Built Cloud Data Warehouse Solutions using Snowflake
+
+✅ Developed Executive-Level Power BI Dashboards
+
+---
+
+## 🌱 Currently Exploring
+
+```text
+☁️ Advanced Snowflake Architecture
+🤖 Generative AI
+⚙️ MLOps
+📊 Advanced Data Engineering
+🚀 Modern Data Platforms
+```
+
+---
+
+## 📫 Connect With Me
 
 📧 akkiy0550@gmail.com
 
@@ -146,6 +135,6 @@ https://github.com/akkikoomar27
 
 <div align="center">
 
-### 🚀 From Data → Insights → Decisions → Impact
+## 💡 Data → Insights → Decisions → Impact
 
 </div>
