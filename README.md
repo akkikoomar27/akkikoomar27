@@ -4,9 +4,9 @@ Hi, I'm Akhilesh Yadav 👋
 
 🚀 Data Analyst | Data Scientist | Data Engineering Enthusiast
 
-With 4+ years of enterprise experience at Larsen & Toubro (Fortune 500), I specialize in transforming complex business data into actionable insights, scalable data solutions, and intelligent decision-making systems. 【1-a35a26】
+With 4+ years of enterprise experience at Larsen & Toubro (Fortune 500), I specialize in transforming complex business data into actionable insights, scalable data solutions, and intelligent decision-making systems.
 
-My expertise spans across Data Analytics, Machine Learning, SQL Development, ETL Engineering, Cloud Data Warehousing, and Business Intelligence. I enjoy building end-to-end solutions—from data ingestion and transformation to predictive modeling, visualization, and reporting. 【1-a35a26】
+My expertise spans across Data Analytics, Machine Learning, SQL Development, ETL Engineering, Cloud Data Warehousing, and Business Intelligence. I enjoy building end-to-end solutions—from data ingestion and transformation to predictive modeling, visualization, and reporting.
 
 💡 I believe data is most valuable when it helps organizations make faster, smarter, and more informed decisions.
 
